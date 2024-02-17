@@ -1,4 +1,4 @@
-# Spatio-Temporal Graph Representation Learning for Fraudster Group Detection
+# Trade Market Profit Optmization (TMPO)
 This repository is the official Keras implementation of the project, an approach to train, predict, and optimize the profit from a trade data.
 
 
